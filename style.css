@@ -1,0 +1,73 @@
+body {
+    background-color: yellowgreen;
+}
+
+.Title-Of-Page:hover {
+    color:rgb(255, 0, 85);
+    text-align: center;
+    text-decoration: wavy;
+}
+
+ol {
+    text-align: left;
+}
+
+.About-Me {
+    font-size: larger;
+    text-align: justify;
+}
+
+.Why-I-Started-Programming {
+    font-size: larger;
+}
+
+.Title1 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Title2 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Title3 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.My-Favorite-Games {
+    font-size: larger;
+}
+
+
+h1 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+
+.Game-Links {
+    text-align: center;
+}
+
+span {
+    font-size: xx-large;
+}
+
+.Python-Site {
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+.Ending:hover {
+    font-size: xx-large;
+    text-align: center;
+    background-color: khaki;
+}
+
+.Goodbye-Text {
+    font-size: xxx-large;
+    text-align: center;
+}
